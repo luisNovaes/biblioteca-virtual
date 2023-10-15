@@ -1,6 +1,6 @@
 # Nome do Projeto
 ### biblioteca-virtual
-### Uma Biblioteca Virtual representada pelos Epics/Features e User
+### Descrição: Uma Biblioteca Virtual representada pelos Epics/Features e User
 
 # Autor
 ### Luis Novaes
