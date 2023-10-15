@@ -44,7 +44,7 @@
 
 # Banco de dados 
 ### Tabela LIVRO populado automaticamente com alguns livros.
-### Tabela UTILIZADOR populado automaticamentecom alguns os utilizadoes acima.
+### Tabela UTILIZADOR populado automaticamentecom alguns utilizadoes acima.
 ### Tabela ALUGUEL: Não populada inicialmente.
 
 # Console do Banco de dados H2
