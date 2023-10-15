@@ -14,6 +14,8 @@
 ### Spring Boot 2.7.16
 ### Spring Boot Security
 ### Spring Boot data Jpa
+### Junit Jupiter Api Test
+### spring Security Test
 ### Apache Maven 3.9.5
 ### Banco de Dados H2
 ### Primefaces 8.0
