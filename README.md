@@ -2,9 +2,9 @@
 ## Uma Biblioteca Virtual representada pelos Epics/Features e User
 
 # Autor
-Luis Novaes
-Engenheiro de Software
-Empresa: Luis Magno Novaes, Unipessoal LDA
+## Luis Novaes
+## Engenheiro de Software
+## Empresa: Luis Magno Novaes, Unipessoal LDA
 # Versão 
 0.0.1-SNAPSHOT
 
