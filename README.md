@@ -25,10 +25,10 @@
 ### Windows 10 Enterprise
 ### Java version "21"
 
-# Instruções para rodar a aplicação front - end
+# Instruções para rodar a aplicação 
 ### Desconpact o arquivo projetos.zip em uma pasta. Dentro estará os dois projetos biblioteca-back e Biblioteca-front 
-### No biblioteca-back Execute na linha de comando:  "mvn spring-boot:run" para instalar e preparar os pacotes e run para iniciar o back-end.
-### NO Biblioteca-front, execute na linha de comando: "npm install", "npm run ng serve" para iniciar o front-end.
+### Na pasta biblioteca-back, execute na linha de comando:  "mvn spring-boot:run" para instalar e preparar os pacotes e run para iniciar o back-end.
+### Na pasta Biblioteca-front, execute na linha de comando: "npm install", "npm run ng serve" para iniciar o front-end.
 ### No navegador abra a página: http://localhost:4200/index.xhtml
 ### Supendo que já esteja com as ferramentas instaladas: Nodes.js, Angular/CLI, JDK21
 ### QUalquer dúvida eu estou a disposição em luismagnovaesgmail.com
