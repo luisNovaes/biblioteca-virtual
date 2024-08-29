@@ -34,9 +34,9 @@
 ### QUalquer dúvida eu estou a disposição em luismagnovaesgmail.com
 
 # Utilizadoes criados automaticamente na classe DataLoader.java com os seguites dados de acesso.
-###	Utilizador: anonimo@email.com - Senha: An1234	Perfíl: Anónimo
-### Utilizador: utilizador@email.com - Senha: Ut1234	Perfíl: Utilizador
-###	Utilizador: admin@email.com	 - Senha:Ad1234	Perfíl: Administrador
+###	Utilizador: anonimo@email.com    -    Senha: An1234    -   	Perfíl: Anónimo
+### Utilizador: utilizador@email.com    -    Senha: Ut1234    -   	Perfíl: Utilizador
+###	Utilizador: admin@email.com	    -    Senha:cAd1234    -   	Perfíl: Administrador
 
 # Console do Banco de dados H2
 ### Link: http://localhost:8080/h2-console/
