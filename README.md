@@ -18,6 +18,7 @@
 ### Junit Jupiter Api Test
 ### spring Security Test
 ### Apache Maven jdk-21
+### Angular 18.2.0
 ### Banco de Dados H2
 ### Tomcat
 
