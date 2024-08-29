@@ -1,6 +1,6 @@
 # Nome do Projeto
 ### biblioteca-virtual
-### Descrição: Uma Biblioteca Virtual representada pelos Epics/Features e User
+### Descrição: Uma Biblioteca Virtual representada pelos Epics Home, Utilizadores e Livros
 
 # Autor
 ### Luis Novaes
@@ -11,50 +11,40 @@
 ### 0.0.1-SNAPSHOT
 
 # Tecnologias
-### Java 8
-### Spring Boot 2.7.16
+### Java 21
+### Spring Boot 3.3.2
 ### Spring Boot Security
 ### Spring Boot data Jpa
 ### Junit Jupiter Api Test
 ### spring Security Test
-### Apache Maven 3.9.5
+### Apache Maven jdk-21
 ### Banco de Dados H2
-### Primefaces 8.0
-### JSF API
 ### Tomcat
 
 # Ambiente de desenvolvimento 
 ### Windows 10 Enterprise
-### Java version "1.8.0_202"
-### Java(TM) SE Runtime Environment (build 1.8.0_202-b08)
-### Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)
+### Java version "21"
 
-# Instruções para rodar a aplicação.
-### Execute na linha de comando: mvn spring-boot:run
-### No navegador abra a página: http://localhost:8080/index.xhtml
+# Instruções para rodar a aplicação front - end
+### Desconpact o arquivo projetos.zip em uma pasta. Dentro estará os dois projetos biblioteca-back e Biblioteca-front 
+### No biblioteca-back Execute na linha de comando:  "mvn spring-boot:run" para instalar e preparar os pacotes e run para iniciar o back-end.
+### NO Biblioteca-front, execute na linha de comando: "npm install", "npm run ng serve" para iniciar o front-end.
+### No navegador abra a página: http://localhost:4200/index.xhtml
+### Supendo que já esteja com as ferramentas instaladas: Nodes.js, Angular/CLI, JDK21
+### QUalquer dúvida eu estou a disposição em luismagnovaesgmail.com
 
-# Utilizadoes criados automaticamente
-### Username: Utilizador
-### Password: utilizador
-
-### Username: Anonimo
-### Password: anonimo
-
-### Username: Administrador
-### Password: administrador
-
-# Banco de dados 
-### Tabela LIVRO populado automaticamente com alguns livros.
-### Tabela UTILIZADOR populado automaticamentecom os utilizadoes acima.
-### Tabela ALUGUEL: Não populada inicialmente.
+# Utilizadoes criados automaticamente na classe DataLoader.java com os seguites dados de acesso.
+###	Utilizador: anonimo@email.com Senha: An1234	Perfíl: Anónimo
+### Utilizador: utilizador@email.com	 Senha: Ut1234	Perfíl: Utilizador
+###	Utilizador: admin@email.com	 Senha:Ad1234	Perfíl: Administrador
 
 # Console do Banco de dados H2
 ### Link: http://localhost:8080/h2-console/
 ### Settings: Generic H2 (Embedded)
 ### Driver Class: org.h2.Driver
-### JDBC URL: jdbc:h2:mem:testdb;
+### JDBC URL: jdbc:h2:mem:biblioteca
 ### User Name: sa
-### Password: 
+### password: password
 
 
 
